@@ -1,0 +1,20 @@
+[
+  { "id": "1", "name": "Python", "category": "Programming", "level": 95 },
+  { "id": "2", "name": "JavaScript", "category": "Programming", "level": 85 },
+  { "id": "3", "name": "TypeScript", "category": "Programming", "level": 80 },
+  { "id": "4", "name": "C++", "category": "Programming", "level": 70 },
+  { "id": "5", "name": "LLMs", "category": "AI/ML", "level": 90 },
+  { "id": "6", "name": "AI Agents", "category": "AI/ML", "level": 88 },
+  { "id": "7", "name": "NLP", "category": "AI/ML", "level": 82 },
+  { "id": "8", "name": "Deep Learning", "category": "AI/ML", "level": 78 },
+  { "id": "9", "name": "LangChain", "category": "AI/ML", "level": 85 },
+  { "id": "10", "name": "Next.js", "category": "Web Development", "level": 88 },
+  { "id": "11", "name": "React", "category": "Web Development", "level": 90 },
+  { "id": "12", "name": "Node.js", "category": "Web Development", "level": 80 },
+  { "id": "13", "name": "FastAPI", "category": "Web Development", "level": 82 },
+  { "id": "14", "name": "MongoDB", "category": "Web Development", "level": 75 },
+  { "id": "15", "name": "Git", "category": "Tools", "level": 92 },
+  { "id": "16", "name": "Docker", "category": "Tools", "level": 72 },
+  { "id": "17", "name": "Supabase", "category": "Tools", "level": 80 },
+  { "id": "18", "name": "Vercel", "category": "Tools", "level": 85 }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "role": "Hackathon Organizer",
+    "organization": "Althon 26",
+    "startDate": "2024-01-01",
+    "endDate": "2024-03-01",
+    "description": "Organized a 48-hour hackathon with 200+ student participants building AI projects. Managed team formation, judging, and prize distribution.",
+    "current": false
+  },
+  {
+    "id": "2",
+    "role": "AI Developer Intern",
+    "organization": "TechStartup",
+    "startDate": "2023-06-01",
+    "endDate": "2023-12-01",
+    "description": "Built AI-powered features including a document Q&A chatbot using LangChain and GPT-4. Improved response accuracy by 40% through prompt engineering.",
+    "current": false
+  }
+]

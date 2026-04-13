@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "name": "Google AI Essentials",
+    "issuer": "Google",
+    "date": "2023-10-01",
+    "link": ""
+  },
+  {
+    "id": "2",
+    "name": "Machine Learning Specialization",
+    "issuer": "Coursera (Andrew Ng)",
+    "date": "2023-08-01",
+    "link": ""
+  },
+  {
+    "id": "3",
+    "name": "AWS Cloud Practitioner",
+    "issuer": "Amazon Web Services",
+    "date": "2024-01-01",
+    "link": ""
+  }
+]

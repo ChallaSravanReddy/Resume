@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1",
+    "title": "Campus Problem Hub",
+    "description": "A platform where students submit campus problems and colleges track and resolve them using AI moderation. Features intelligent categorization and priority scoring.",
+    "tech": ["Next.js", "MongoDB", "Python", "AI Moderation", "Supabase"],
+    "github": "https://github.com/sravan-reddy/campus-problem-hub",
+    "live": "",
+    "images": [],
+    "date": "2024-02-01",
+    "category": "AI/ML"
+  },
+  {
+    "id": "2",
+    "title": "AI Agent Builder",
+    "description": "A drag-and-drop interface to build custom AI agents using LLMs. Supports tool calling, memory, and multi-step reasoning with a visual workflow editor.",
+    "tech": ["Python", "LangChain", "React", "FastAPI", "OpenAI"],
+    "github": "https://github.com/sravan-reddy/ai-agent-builder",
+    "live": "",
+    "images": [],
+    "date": "2024-01-15",
+    "category": "AI/ML"
+  },
+  {
+    "id": "3",
+    "title": "Althon Hackathon Platform",
+    "description": "Full platform for managing hackathon registrations, team formation, project submissions, and judging for the Althon 26 hackathon event.",
+    "tech": ["Next.js", "Supabase", "TypeScript", "Tailwind CSS"],
+    "github": "https://github.com/sravan-reddy/althon",
+    "live": "",
+    "images": [],
+    "date": "2024-03-01",
+    "category": "Web Development"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "name": "Sravan Reddy",
+  "tagline": "AI Developer | Hackathon Organizer | Python Developer",
+  "bio": "Passionate about building AI tools and solving real-world problems. I create intelligent systems, organize hackathons, and build products that matter.",
+  "location": "India",
+  "email": "sravan@example.com",
+  "phone": "+91 9999999999",
+  "linkedin": "https://linkedin.com/in/sravan-reddy",
+  "github": "https://github.com/sravan-reddy",
+  "twitter": "https://twitter.com/sravan_reddy",
+  "photo": "/uploads/profile.jpg",
+  "resume": "/resume/Sravan_Reddy_Resume.pdf",
+  "about": {
+    "bio": "I'm a passionate AI developer and startup builder who loves creating tools that solve real problems. With experience in Python, LLMs, and full-stack web development, I bridge the gap between cutting-edge AI research and practical applications.",
+    "education": "B.Tech in Computer Science, 2024",
+    "interests": ["AI/ML", "Hackathons", "Startups", "Open Source", "Problem Solving"],
+    "goals": "Building AI-powered startups that create positive impact at scale.",
+    "languages": ["Telugu (Native)", "English (Fluent)", "Hindi (Conversational)"]
+  }
+}

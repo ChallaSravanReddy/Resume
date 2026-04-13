@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "title": "How I Built an AI Agent from Scratch",
+    "slug": "how-i-built-an-ai-agent",
+    "excerpt": "A deep dive into building autonomous AI agents using LangChain, tool calling, and memory systems.",
+    "content": "# How I Built an AI Agent from Scratch\n\nAI agents are the future of software. In this post, I'll walk you through how I built a fully autonomous AI agent that can browse the web, write code, and solve complex problems.\n\n## What is an AI Agent?\n\nAn AI agent is a system that perceives its environment, makes decisions, and takes actions to achieve goals. Unlike a simple chatbot, an agent can use tools, maintain memory, and break down complex tasks into steps.\n\n## The Stack\n\n- **LangChain** for agent orchestration\n- **OpenAI GPT-4** as the reasoning engine\n- **Python** for implementation\n- **FastAPI** for the API layer\n\n## Key Learnings\n\n1. Tool design is everything\n2. Memory management is complex\n3. Error handling matters more than you think\n\nStay tuned for Part 2!",
+    "tags": ["AI", "LangChain", "Python", "Agents"],
+    "date": "2024-02-20"
+  },
+  {
+    "id": "2",
+    "title": "How to Organize a Hackathon",
+    "slug": "how-to-organize-a-hackathon",
+    "excerpt": "Everything I learned organizing Althon 26, a 48-hour hackathon with 200+ participants.",
+    "content": "# How to Organize a Hackathon\n\nOrganizing a hackathon is one of the most rewarding experiences you can have as a student. Here's everything I learned from running Althon 26.\n\n## Planning (6 weeks out)\n\n- Venue selection\n- Sponsor outreach\n- Prize pool setup\n\n## Execution\n\n- Team formation\n- Mentorship sessions\n- Demo day\n\n## Lessons Learned\n\nCommunication is the most critical skill. Have backup plans for everything.",
+    "tags": ["Hackathon", "Community", "Leadership"],
+    "date": "2024-03-05"
+  }
+]
