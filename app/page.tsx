@@ -209,14 +209,14 @@ function Hero({ profile }: { profile: Profile }) {
               />
             </div>
             {/* Floating badges */}
-            <div className="absolute -bottom-4 -left-4 glass px-4 py-2 flex items-center gap-2">
+            {/* <div className="absolute -bottom-4 -left-4 glass px-4 py-2 flex items-center gap-2">
               <span className="text-green-400">●</span>
-              <span className="text-sm font-medium">Available for work</span>
-            </div>
-            <div className="absolute -top-4 -right-4 glass px-4 py-2 flex items-center gap-2">
+              {/* <span className="text-sm font-medium">Available for work</span> */}
+            {/* </div> */} 
+            {/* <div className="absolute -top-4 -right-4 glass px-4 py-2 flex items-center gap-2">
               <FiStar className="text-yellow-400" />
-              <span className="text-sm font-medium">AI Developer</span>
-            </div>
+              {/* <span className="text-sm font-medium">AI Developer</span> */}
+            {/* </div> */} 
           </motion.div>
         </AnimatedSection>
       </div>
