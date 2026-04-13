@@ -1,3 +1,4 @@
+export const dynamic = 'force-dynamic';
 import { NextResponse } from 'next/server';
 import { readData, writeData } from '@/lib/data';
 
@@ -11,3 +12,4 @@ export async function PUT(request: Request) {
   await writeData('profile.json', body);
   return NextResponse.json({ success: true });
 }
+
